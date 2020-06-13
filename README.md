@@ -5,7 +5,7 @@ Simple OSC client for command line interface.
 ## Dependencies
 
 - python
-- [[https://pypi.org/project/python-osc/][python-osc]]
+- [https://pypi.org/project/python-osc/](python-osc)
 
 ## Usage
 
