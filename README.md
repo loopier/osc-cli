@@ -4,8 +4,9 @@ Simple OSC client for command line interface.
 
 ## Usage
 
+`osc-cli -a <ip address> -p <port> /your/osc/address [value1 value2 ...]`
+
 Default ip address is `localhost` or `127.0.0.1`.
 
 Default port is `57120` (SuperCollider).
 
-`osc-cli -a <ip address> -p <port> /your/osc/address [value1 value2 ...]`
